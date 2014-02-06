@@ -1,4 +1,0 @@
-iOSStudy
-========
-
-study iOS
