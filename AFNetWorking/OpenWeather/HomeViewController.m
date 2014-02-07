@@ -99,7 +99,7 @@
         }
     }
     
-    NSString *requestStingUrl = @"http://www.wemakeprice.com/app/api/deal/get_list?";
+    NSString *requestStingUrl = @"app/api/deal/get_list?";
     NSMutableDictionary *requestParamater = [NSMutableDictionary dictionary];
 
     [requestParamater setObject:[NSString stringWithFormat:@"%d",_oneDepthType] forKey:@"cmd"];
